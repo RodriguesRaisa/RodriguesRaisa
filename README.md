@@ -35,7 +35,7 @@
 
 💼 **12+ years of expertise in manual and automation testing across Payment Gateways, Merchant Solutions, Travel E-commerce, and Automotive Collision Repair platforms.**
 
-🔭  Currently working as QA at Caliber Collision **
+🔭  Currently working as QA at Caliber Collision
 
 🤖 Built an AI-powered Bug Triage Agent integrating Claude API + Azure DevOps to automate sprint defect triage, workload analysis, and sprint health tracking
 
