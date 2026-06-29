@@ -33,15 +33,19 @@
 
 
 
-💼 **12 years of expertise in manual and automation testing across Payment Gateways, Merchant Solutions, and Travel-related E-commerce platforms.**
+💼 **12+ years of expertise in manual and automation testing across Payment Gateways, Merchant Solutions, Travel E-commerce, and Automotive Collision Repair platforms.**
 
-🔭 Currently working on **[selenium-e2e-framework](https://github.com/RodriguesRaisa/selenium-e2e-framework)**
+🔭  Currently working as QA at Caliber Collision **
 
-🌱 Currently learning **Playwright, API Testing with Rest Assured**
+🤖 Built an AI-powered Bug Triage Agent integrating Claude API + Azure DevOps to automate sprint defect triage, workload analysis, and sprint health tracking
 
-💬 Ask me about **CI/CD, Selenium**
+🌱 Exploring AI-powered testing tools — Applitools, Testim, and AI-assisted test generation workflows
 
-🎓 Certifications: **ISTQB**
+💬 Ask me about Selenium, Playwright, CI/CD, API Testing, Azure DevOps
+
+🎓 Certifications: ISTQB CTAL Test Analyst | ISTQB Agile Tester | PSM I
+
+📍 Plano, TX | Open to opportunities
 
 ⚡ Fun fact: **Passionate about continuously learning and growing new skills**
 
